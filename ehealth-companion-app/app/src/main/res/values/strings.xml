@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">eHealth App</string>
+    <string name="menu_blood_pressure">Blood pressure reading</string>
+    <string name="okay_text">Okay</string>
+    <string name="blood_pressure_reading_tutorial_title">Blood pressure reading</string>
+    <string name="blood_pressure_reading_tutorial">
+        - Hold out one of your arms so it\'s at the same level as your heart, and then place cuff around it. Support your arm in this position, with cushion or arm of a chair\n\n
+        - Pump up the cuff to restrict the blood flow in your arm. This squeezing may feel a bit uncomfortable, but only lasts a few seconds\n\n
+        - Slowly release the pressure in the cuff is slowly while a digital device is used to listen to your pulse (digital devices use sensors to detect vibrations in your arteries)\n\n
+        - The pressure in the cuff is recorded at 2 points as the blood flow starts to return to your arm and these measurements are used to give your blood pressure reading
+    </string>
+    <string name="dont_show_again">Don\'t show again</string>
+    <string name="submit">Submit</string>
+</resources>
